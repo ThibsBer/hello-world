@@ -1,2 +1,2 @@
 # hello-world
-ideias
+ideias sobre o que eu gostaria de programar ou aprender 
